@@ -1,4 +1,4 @@
-import {ToneListener} from "./NoteReducer";
+import {ToneListener} from "./ToneReducer";
 
 import { combineReducers } from "redux";
 
